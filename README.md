@@ -1,4 +1,4 @@
-
+This is Happy coding!
 # LAB - CI med GitHub actions 
 
 ## Mål for denne Øvingen 
